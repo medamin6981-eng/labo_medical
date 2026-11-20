@@ -1,0 +1,21 @@
+# Maven / Java
+target/
+*.jar
+*.war
+*.class
+
+# IDE / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# Environnement / Secrets
+.env
+application-local.yml
+application-local.properties
+
+# Angular (futur frontend)
+node_modules/
+dist/
+.angular/
